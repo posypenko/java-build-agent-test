@@ -1,0 +1,25 @@
+{
+    "token": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL0RFVi1hbGEyLmF1dGguc2VhbGlnaHRzLmlvLyIsImp3dGlkIjoiREVWLWFsYTIsaS0wNjVmNmM1MzE4NjYwNmI4MyxBUElHVy1kZTA3M2UxNC0yOTA1LTQwY2ItODRhNi04YmFiZTQwNTFhM2IsMTYzODk1MjIxNTEwMSIsInN1YmplY3QiOiJTZWFMaWdodHNAYWdlbnQiLCJhdWRpZW5jZSI6WyJhZ2VudHMiXSwieC1zbC1yb2xlIjoiYWdlbnQiLCJ4LXNsLXNlcnZlciI6Imh0dHBzOi8vZGV2LWFsYTItZ3cuZGV2LnNlYWxpZ2h0cy5jby9hcGkiLCJzbF9pbXBlcl9zdWJqZWN0IjoiIiwiaWF0IjoxNjM4OTUyMjE1fQ.UqiqvrKZIQBoK_v8Lce7NG9UkA50eCTI63lAN2kH993mICdPyoQxwv_llxZ7wKY2bhoacn6pT5Ro9OjPecO-7qE5HFImvdn2GuPcLn9UKoh2ejjLvrDFvDE6Sr8GXdylRNCxwPgUM_2LBLd9leX1579PmUxNJu_RCFaH2kkilGn_GFUxRkNKlXpToY21NGL-kqnouq6iOk7bJuFuDem_afzI_MTJT02ujcvv6oVarlyTRrNv20NWKn6H_4e_6JjuLtD72DObgsnPoV_q4l6ZQ2fC3rx9ioQAOZTgQtWzLedCLsVhhPEjUQ_fVGP3tr8c26SPjVBb-UIIJsXjknM_UKzbXhf29D8c0nfkY25OTqe_YSxSMTQT5g55f07e_tHdwAjeHtMjzDv7WBJW6M945iX0p-hfldVx0S1i25a6D1-USGASB4DwHNKBGYTwdt5TkXi3UG_CwDQdYfxE9bz5oKC7F6AU_tSZsUm1tZyvWp5hUgg0sOb6ch1QdgNrGrXlVjfztYSAiVxIWA0Vq1ZHddvXXcw_LPzaZjlUJez-UPsWOQmGfvrHeXloSrnRBORo07basu7JvvJNlXJ6uf7ogdADBtq5OPYH3OBDWmoVpUyTVyERPXaqSGUUDNZqPAnyiGdLsHhKi96vwwcvCf4d53RLiv1MQlPVZ0R0ltiNM3E",
+    "createBuildSessionId": true,
+    "appName": "po-java-build-agent-test",
+    "branchName": "master",
+    "buildName": "001",
+    "packagesIncluded": "*tech.pragmat.*",   
+    "packagesExcluded": "", 
+    "filesIncluded": "*.class", 
+    "filesExcluded": "*test-classes*", 
+    "recursive": true, 
+    "includeResources": true, 
+    "testStage": "Unit Tests", 
+    "labId": null, 
+    "executionType": "full", 
+    "logEnabled": true,
+    "logDestination": "console", 
+    "logLevel": "trace",
+    "logFolder": "/tmp", 
+    "enabled": true, 
+    "filesStorage": "/tmp",
+    "sealightsJvmParams": {
+        "sl.enableUpgrade": false
+    }
+}
