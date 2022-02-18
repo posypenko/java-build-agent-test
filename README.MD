@@ -13,13 +13,13 @@
 # Command groups
 > java -jar sl-build-scanner.jar -pom -configfile config.json -workspacepath .
 > 
-> ./mvnw clean packge
+> ./mvnw clean package
 > 
 > java -jar sl-build-scanner.jar -restorePom -workspacepath .
 
 
 > java -jar sl-build-scanner.jar -pom -configfile configPR.json -workspacepath .
 >
-> ./mvnw clean packge
+> ./mvnw clean package
 >
 > java -jar sl-build-scanner.jar -restorePom -workspacepath .
